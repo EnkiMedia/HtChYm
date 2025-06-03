@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "About",
+    "companyName": "HypnotherapyChangeYourMind",
+    "description": "We are a channel of conscious transformation, facilitating personal and emotional awakening so you can live in alignment with your essence."
+  },
+  "missionVision": {
+    "missionTitle": "Our Mission",
+    "missionText": "To help people release emotional blockages, overcome fears, and transform their lives through therapeutic hypnosis, safely, respectfully, and effectively.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be a channel of conscious transformation, facilitating the personal and emotional awakening of people, so they live aligned with their essence, free from past burdens, and at peace with themselves."
+  },
+  "whoWeAre": {
+    "title": "Who We Are?",
+    "p1": "As professional hypnotherapists, we have the knowledge to induce an absolute state of consciousness in the individual. This allows us to guide you so you can reprogram your mind and achieve profound and lasting transformation.",
+    "p2": "Our approach combines the ancestral wisdom of hypnosis with the latest discoveries in neuroscience, creating a unique methodology for your personal evolution.",
+    "imageOverlay": "Your guide to mental reprogramming."
+  },
+  "neurogenesis": {
+    "title": "Neurogenesis and Neuroplasticity",
+    "p1": "Neurogenesis is our brain's ability to create new neurons. This process, along with the neural restructuring ability called neuroplasticity, allows our brain to change established thought systems.",
+    "p2": "Therefore, neurogenesis allows for changing habits and ideas to improve an individual's quality of life. Our methodology focuses on reorganizing neural pathways to achieve the desired outcome.",
+    "imageOverlay": "The power to create new neurons."
+  },
+  "ourTeam": {
+    "title": "Our Transformation Team",
+    "description": "Professionals dedicated to your inner healing and personal evolution, combining experience and a technical-spiritual approach.",
+    "julianName": "Julian Elles",
+    "julianRole": "Hypnotherapist & Neuro-Linguistic Programming Expert",
+    "julianBio": "Julian combines deep hypnotherapy knowledge with NLP techniques to help you unlock your potential and reprogram your mind for success.",
+    "julianBanner": "Unlocking your potential.",
+    "sandraName": "Sandra Sanchez",
+    "sandraRole": "Certified Hypnotherapist & Regression Specialist",
+    "sandraBio": "Sandra specializes in past life regression and deep emotional healing, guiding you to resolve past burdens and find inner peace.",
+    "sandraBanner": "Healing from within."
+  },
+  "competitiveDifference": {
+    "title": "Our Competitive Difference",
+    "mainText": "Our methodology related to neurogenesis is unique.",
+    "subText": "We are unique in our approach of reorganizing neural pathways to achieve the desired result, combining therapeutic hypnosis with neuroscience principles for profound and sustainable transformation."
+  },
+  "cta": {
+    "title": "Ready to rediscover your inner power?",
+    "description": "Schedule a free 30-minute consultation and let's explore together how we can help you transform your life.",
+    "scheduleFreeConsultation": "Schedule Free Consultation",
+    "viewServices": "View Services"
+  }
+}

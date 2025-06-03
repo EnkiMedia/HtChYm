@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Contact",
+    "companyName": "HypnotherapyChangeYourMind",
+    "description": "We are here to answer your questions, schedule your free 30-minute consultation, or help you book your hypnotherapy session. Take the first step towards your transformation!"
+  },
+  "sendMessage": {
+    "title": "Send Us a Message",
+    "description": "Complete the form for general inquiries, to request your free 30-minute consultation, or to schedule a session. We will respond shortly."
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "phoneTitle": "Phone (WhatsApp Preferred)",
+    "phoneLine1": "Julian Elles: 720-979-8004",
+    "phoneLine2": "Sandra Sanchez: 720-984-6855",
+    "emailTitle": "Email",
+    "emailLine1": "info@hypnotherapychangeyourmind.com",
+    "hoursTitle": "Office Hours (Consultations and Sessions)",
+    "hoursLine1": "Monday to Friday: 9:00 AM - 7:00 PM",
+    "hoursLine2": "Saturdays: 10:00 AM - 2:00 PM (Subject to availability)"
+  },
+  "followUs": {
+    "title": "Follow Us for Daily Inspiration",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter"
+  },
+  "howToSchedule": {
+    "title": "How to Schedule Your Session?",
+    "description": "Scheduling your transformation is easy. We offer free 30-minute consultations and full sessions of 1h to 1h30min.",
+    "freeConsultTitle": "Free Consultation (30 min)",
+    "freeConsultDesc": "Ideal for clarifying doubts, discussing your goals, and understanding how hypnotherapy and neurogenesis can help you. No commitment.",
+    "requestFreeConsult": "Request Free Consultation",
+    "realSessionTitle": "Real Session (1h - 1h30min)",
+    "realSessionDesc1": "Full transformative hypnotherapy session. Cost: $150.",
+    "realSessionDesc2": "Important: Book your spot with $75. The other $75 is paid on the day of the session, before starting.",
+    "scheduleRealSession": "Schedule Real Session"
+  },
+  "askMoreInfoCTA": {
+    "title": "Ask for More Information",
+    "description": "If you have any questions about our services, hypnotherapy, neurogenesis, or how we can help you achieve your goals and overcome fears, don't hesitate to contact us!",
+    "sendMessageButton": "Send Message"
+  }
+}

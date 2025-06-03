@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "scheduleSession": "Agendar Sesión",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma"
+  },
+  "footer": {
+    "companyName": "HypnotherapyChangeYourMind.com",
+    "contactInfo": "Información de Contacto",
+    "therapists": "Hipnoterapeutas",
+    "julian": "Julian Elles",
+    "sandra": "Sandra Sanchez",
+    "phoneJulian": "Teléfono Julian: 720-979-8004",
+    "phoneSandra": "Teléfono Sandra: 720-984-6855",
+    "quickContactApp": "App de Contacto Rápido",
+    "contactAppDescription": "Conecta directamente con nuestros hipnoterapeutas a través de nuestra aplicación web dedicada.",
+    "launchApp": "Abrir App",
+    "copyright": "© {{year}} HypnotherapyChangeYourMind.com. Todos los derechos reservados.",
+    "quickLinks": "Enlaces Rápidos",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "faq": "Preguntas Frecuentes"
+  },
+  "form": {
+    "fullName": "Nombre completo",
+    "namePlaceholder": "Tu nombre",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "tu@email.com",
+    "phoneOptional": "Teléfono (Opcional)",
+    "phonePlaceholder": "Tu número de teléfono",
+    "message": "Mensaje",
+    "messagePlaceholder": "¿En qué podemos ayudarte?",
+    "submit": "Enviar mensaje",
+    "submitting": "Enviando...",
+    "successTitle": "Mensaje enviado con éxito",
+    "successDescription": "Nos pondremos en contacto contigo pronto. ¡Gracias!",
+    "errorTitle": "Error al enviar mensaje",
+    "errorDescription": "Hubo un problema al enviar tu mensaje. Por favor, inténtalo de nuevo.",
+    "thankYouTitle": "¡Gracias por contactarnos!",
+    "thankYouDescription": "Hemos recibido tu mensaje y nos pondremos en contacto contigo lo antes posible."
+  }
+}

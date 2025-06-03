@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "Historias de",
+    "subtitle": "Transformación y Sanación",
+    "description": "Descubre cómo nuestra metodología única, enfocada en la neurogénesis y la reprogramación neuronal, ha ayudado a personas como tú a alcanzar sus metas y superar miedos."
+  },
+  "featuredTestimonial": {
+    "name": "Ana R.",
+    "role": "Exploradora de Vidas Pasadas",
+    "content": "La regresión a vidas pasadas fue una experiencia profundamente sanadora. Entendí patrones en mi vida actual que no tenían explicación. Me siento más ligera y con un propósito renovado. ¡Gracias por esta increíble guía!",
+    "service": "Regresiones a Vidas Pasadas",
+    "imageOverlay": "Una nueva perspectiva de vida."
+  },
+  "moreSuccessStories": {
+    "title": "Más Casos de Éxito",
+    "description": "Personas reales, transformaciones reales. Inspírate con sus historias de liberación emocional y sanación interior.",
+    "anaName": "Ana R.",
+    "anaRole": "Exploradora de Vidas Pasadas",
+    "anaContent": "La regresión a vidas pasadas fue una experiencia profundamente sanadora. Entendí patrones en mi vida actual que no tenían explicación. Me siento más ligera y con un propósito renovado. ¡Gracias por esta increíble guía!",
+    "anaService": "Regresiones a Vidas Pasadas",
+    "luisName": "Luis M.",
+    "luisRole": "Libre de Ansiedad",
+    "luisContent": "Durante años, la ansiedad controló mi vida. Las sesiones de hipnoterapia me dieron herramientas prácticas y una nueva perspectiva. Ahora puedo manejar el estrés y disfrutar más de cada día. ¡Un cambio radical!",
+    "luisService": "Manejo de Ansiedad y Estrés",
+    "sofiaName": "Sofía C.",
+    "sofiaRole": "Ex-Fumadora Feliz",
+    "sofiaContent": "Intenté dejar de fumar muchas veces sin éxito. La hipnoterapia fue la clave. Desde la primera sesión sentí un cambio. Ya llevo 6 meses sin fumar y me siento increíble. ¡Mi salud y mi bolsillo lo agradecen!",
+    "sofiaService": "Dejar de Fumar",
+    "javierName": "Javier P.",
+    "javierRole": "Confiado y Centrado",
+    "javierContent": "Tenía un bloqueo terrible para hablar en público. Gracias a la hipnoterapia, no solo superé ese miedo, sino que ahora disfruto presentando mis ideas. Mi autoestima ha crecido enormemente.",
+    "javierService": "Superación de Fobias y Miedos",
+    "elenaName": "Elena G.",
+    "elenaRole": "Durmiendo Plenamente",
+    "elenaContent": "El insomnio era una tortura. Las sesiones me ayudaron a calmar mi mente y a establecer una rutina de sueño saludable. Ahora duermo profundamente y me despierto con energía. ¡Es maravilloso!",
+    "elenaService": "Mejora del Sueño e Insomnio",
+    "carlosName": "Carlos V.",
+    "carlosRole": "Enfocado en el Éxito",
+    "carlosContent": "La preparación para mis exámenes fue mucho menos estresante con la hipnoterapia. Mejoré mi concentración y retención de información. ¡Aprobé con excelentes notas!",
+    "carlosService": "Preparación para Exámenes"
+  },
+  "videoTestimonials": {
+    "title": "Testimonios en Video",
+    "description": "Escucha directamente de nuestros clientes cómo la hipnoterapia ha impactado positivamente sus vidas. (Videos Próximamente)",
+    "lauraName": "Laura F.",
+    "lauraRole": "Transformada por la Neurogénesis",
+    "lauraService": "Hipnoterapia y Neurogénesis",
+    "lauraBanner": "Mi cerebro se siente renovado.",
+    "pedroName": "Pedro S.",
+    "pedroRole": "Liberación Emocional Profunda",
+    "pedroService": "Bloqueos Emocionales",
+    "pedroBanner": "Solté cargas que no sabía que tenía.",
+    "comingSoon": "Estamos trabajando en recopilar testimonios en video. ¡Vuelve pronto!"
+  },
+  "submitStory": {
+    "title": "Comparte Tu Historia de Transformación",
+    "description": "Tu experiencia puede ser la inspiración que alguien más necesita para iniciar su propio camino de sanación y evolución personal. ¡Nos encantaría escuchar tu caso de éxito!",
+    "submitMyTestimonial": "Enviar Mi Testimonio"
+  },
+  "cta": {
+    "title": "¿Listo para Escribir Tu Propia Historia de Éxito?",
+    "description": "Únete a las personas que han transformado sus vidas. Permítenos ser tu canal hacia la liberación emocional y el despertar de tu poder interior.",
+    "scheduleFreeConsultation": "Agendar Consulta Gratis",
+    "knowServices": "Conocer Servicios"
+  }
+}

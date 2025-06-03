@@ -1,0 +1,149 @@
+{
+  "hero": {
+    "title": "Nuestros Servicios de",
+    "subtitle": "Hipnoterapia Transformadora",
+    "description": "Descubre un abanico de posibilidades para tu sanación interior, liberación emocional y reprogramación neuronal. Cada servicio está diseñado para ayudarte a alcanzar tus metas y superar miedos."
+  },
+  "servicesList": {
+    "freeConsultation": {
+      "title": "Consultas Gratis de 30 Minutos",
+      "description": "Hablamos de qué se quiere lograr; identificamos actitudes y comportamientos que afecten tu vida personal, para cambiar tu pensamiento, transformar tu cuerpo, mente y emociones.",
+      "category": "Consulta Inicial",
+      "bannerText": "Tu primer paso hacia el cambio."
+    },
+    "customAudios": {
+      "title": "Audios Personalizados Diarios",
+      "description": "En cada sesión te envío un audio personalizado que debes escuchar diariamente como parte del proceso hipnoterapéutico.",
+      "category": "Soporte Continuo",
+      "bannerText": "Refuerza tu transformación día a día."
+    },
+    "pastLifeRegression": {
+      "title": "Regresiones a Vidas Pasadas",
+      "description": "Accede a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+      "category": "Sanación Profunda",
+      "bannerText": "Explora los misterios de tu alma."
+    },
+    "individualRegression": {
+      "title": "Hipnoterapia Regresiva Individual",
+      "description": "Una experiencia personalizada para sanar y comprender aspectos profundos de tu ser.",
+      "category": "Sanación Profunda",
+      "bannerText": "Viaje individual a tu interior."
+    },
+    "anxietyStressManagement": {
+      "title": "Manejo de la Ansiedad y el Estrés",
+      "description": "Libérate de la presión diaria y encuentra tu paz interior con técnicas efectivas.",
+      "category": "Bienestar Emocional",
+      "bannerText": "Recupera tu calma y equilibrio."
+    },
+    "phobiaFearOvercoming": {
+      "title": "Superación de Fobias y Miedos",
+      "description": "Vence tus miedos irracionales (hablar en público, volar, etc.) y vive sin límites.",
+      "category": "Liberación Personal",
+      "bannerText": "Conquista tus miedos, vive libre."
+    },
+    "quitSmoking": {
+      "title": "Dejar de Fumar",
+      "description": "Rompe con el hábito del tabaco y recupera tu salud con el poder de la hipnosis.",
+      "category": "Salud y Hábitos",
+      "bannerText": "Elige una vida libre de humo."
+    },
+    "weightControl": {
+      "title": "Control del Peso y Hábitos Alimenticios",
+      "description": "Transforma tu relación con la comida y alcanza tus objetivos de peso de forma saludable.",
+      "category": "Salud y Hábitos",
+      "bannerText": "Nutre tu cuerpo, transforma tu vida."
+    },
+    "sleepImprovement": {
+      "title": "Mejora del Sueño e Insomnio",
+      "description": "Disfruta de un descanso reparador y despierta con energía cada mañana.",
+      "category": "Bienestar General",
+      "bannerText": "Duerme profundamente, vive plenamente."
+    },
+    "selfEsteemBoost": {
+      "title": "Incremento de la Autoestima y Confianza",
+      "description": "Desarrolla una imagen positiva de ti mismo y proyecta seguridad en todas las áreas de tu vida.",
+      "category": "Desarrollo Personal",
+      "bannerText": "Cree en ti, alcanza tus sueños."
+    },
+    "emotionalBlockages": {
+      "title": "Bloqueos Emocionales o Traumas Pasados",
+      "description": "Sana heridas del pasado y libera las emociones que te impiden avanzar.",
+      "category": "Sanación Profunda",
+      "bannerText": "Libera el pasado, abraza tu presente."
+    },
+    "examPreparation": {
+      "title": "Preparación para Exámenes o Entrevistas",
+      "description": "Afronta tus desafíos académicos y profesionales con calma, confianza y enfoque.",
+      "category": "Rendimiento y Éxito",
+      "bannerText": "Prepárate para el éxito con mente clara."
+    },
+    "concentrationFocus": {
+      "title": "Mejoras a la Concentración y el Enfoque",
+      "description": "Potencia tu capacidad de atención y productividad en tus tareas diarias.",
+      "category": "Rendimiento y Éxito",
+      "bannerText": "Enfoca tu mente, maximiza tu potencial."
+    },
+    "groupWorkshops": {
+      "title": "Talleres Grupales",
+      "description": "Participa en experiencias transformadoras en un entorno de apoyo y crecimiento compartido.",
+      "category": "Crecimiento Comunitario",
+      "bannerText": "Crece en comunidad, transforma en grupo."
+    },
+    "onlineSessions": {
+      "title": "Sesiones Online",
+      "description": "Accede a nuestros servicios de hipnoterapia desde la comodidad de tu hogar, sin importar dónde te encuentres.",
+      "category": "Accesibilidad",
+      "bannerText": "Transformación sin fronteras."
+    },
+    "moreInfo": "Más Información"
+  },
+  "pricing": {
+    "title": "Paquetes de Sesiones",
+    "description": "Invierte en tu bienestar con nuestros paquetes especiales. Cada sesión tiene una duración de 1 hora a 1 hora y 30 minutos.",
+    "individualPrice": "Precio por sesión individual: $150.",
+    "paymentNote": "Recuerda: Separa tu consulta con $75 (la mitad del costo de una sesión) y la otra mitad la cancelas el día de la sesión antes de empezar.",
+    "package1Name": "1 Sesión",
+    "package1Price": 150,
+    "package1Save": null,
+    "package1Desc": "Ideal para un primer contacto o un objetivo específico.",
+    "package3Name": "3 Sesiones",
+    "package3Price": 420,
+    "package3Save": 30,
+    "package3Desc": "Un paquete para profundizar en tu proceso de cambio.",
+    "package6Name": "6 Sesiones",
+    "package6Price": 780,
+    "package6Save": 120,
+    "package6Desc": "Para una transformación más completa y sostenida.",
+    "package10Name": "10 Sesiones",
+    "package10Price": 1200,
+    "package10Save": 300,
+    "package10Desc": "El compromiso definitivo con tu evolución personal.",
+    "mostPopular": "MÁS POPULAR",
+    "pricePerSession": "por sesión",
+    "features": [
+      "Sesión(es) de Hipnoterapia",
+      "Audios personalizados",
+      "Soporte continuo"
+    ],
+    "selectPackage": "Seleccionar Paquete",
+    "save": "Ahorra ${{amount}}"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "description": "Resolvemos tus dudas sobre la hipnoterapia y nuestros servicios.",
+    "q1": "¿Cómo funciona la consulta gratis de 30 minutos?",
+    "a1": "Es una conversación inicial para conocernos, entender tus objetivos y cómo la hipnoterapia puede ayudarte. Identificaremos actitudes y comportamientos a transformar. Sin compromiso.",
+    "q2": "¿Qué es la neurogénesis y cómo se relaciona con la hipnoterapia?",
+    "a2": "La neurogénesis es la capacidad del cerebro para crear nuevas neuronas. La hipnoterapia, junto con la neuroplasticidad (reestructuración neuronal), facilita este proceso, permitiendo cambiar hábitos y patrones de pensamiento para mejorar tu calidad de vida.",
+    "q3": "¿Cómo se realiza el pago de las sesiones?",
+    "a3": "Para una sesión individual de $150 (1h - 1h30min), separas tu consulta con $75. Los otros $75 se pagan el mismo día de la sesión, antes de comenzar. Los paquetes tienen sus propios términos de pago.",
+    "q4": "¿Qué pasa si necesito cancelar o reprogramar una cita?",
+    "a4": "Entendemos que pueden surgir imprevistos. Te pedimos que nos avises con al menos 24 horas de anticipación para poder reprogramar tu sesión sin costo adicional. Las cancelaciones con menos tiempo pueden estar sujetas a cargos."
+  },
+  "cta": {
+    "title": "¿Listo para tu Evolución Personal?",
+    "description": "Tu transformación comienza con una decisión. Agenda tu consulta gratis o elige el paquete que resuene contigo.",
+    "scheduleFreeConsultation": "Agendar Consulta Gratis",
+    "askMore": "Preguntar Más"
+  }
+}

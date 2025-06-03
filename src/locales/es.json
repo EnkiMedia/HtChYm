@@ -1,0 +1,418 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Sobre Nosotros",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "scheduleSession": "Agendar Sesión",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "language": "Idioma"
+  },
+  "footer": {
+    "companyName": "HypnotherapyChangeYourMind.com",
+    "contactInfo": "Información de Contacto",
+    "therapists": "Hipnoterapeutas",
+    "julian": "Julian Elles",
+    "sandra": "Sandra Sanchez",
+    "phoneJulian": "Teléfono Julian: 720-979-8004",
+    "phoneSandra": "Teléfono Sandra: 720-984-6855",
+    "quickContactApp": "App de Contacto Rápido",
+    "contactAppDescription": "Conecta directamente con nuestros hipnoterapeutas a través de nuestra aplicación web dedicada.",
+    "launchApp": "Abrir App",
+    "copyright": "© {{year}} HypnotherapyChangeYourMind.com. Todos los derechos reservados.",
+    "quickLinks": "Enlaces Rápidos",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio",
+    "faq": "Preguntas Frecuentes"
+  },
+  "homePage": {
+    "hero": {
+      "title": "HypnotherapyChangeYourMind",
+      "subtitle1": "transforma tu mente, sana tu alma",
+      "subtitle2": "redescubre tu poder interior",
+      "description": "Ayudamos a las personas a liberar bloqueos emocionales, superar miedos y transformar sus vidas a través de la hipnosis terapéutica, de forma segura, respetuosa y efectiva.",
+      "ourServices": "Nuestros Servicios",
+      "scheduleNow": "Agenda YA..."
+    },
+    "whatIsHypnotherapy": {
+      "title": "¿Qué es la Hipnoterapia?",
+      "p1": "La hipnoterapia es la ciencia que estudia la mente subconsciente, los orígenes y patrones de comportamiento que afectan nuestro día a día. En la hipnoterapia no se trabaja con problemas o enfermedades, se trabaja con los pensamientos, actitudes y comportamientos que crean los problemas y enfermedades.",
+      "p2": "La hipnoterapia va mano a mano con la Neurogénesis, esto nos permite reconstruir patrones de pensamiento para poder dejar un hábito, obtener habilidades e ideas nuevas y mejorar la calidad de tu vida.",
+      "moreAboutNeurogenesis": "Más sobre Neurogénesis"
+    },
+    "servicesPreview": {
+      "title": "Servicios Destacados",
+      "description": "Explora algunos de nuestros servicios diseñados para tu transformación y sanación interior.",
+      "pastLifeRegressions": "Regresiones a Vidas Pasadas",
+      "pastLifeDesc": "Accede a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+      "pastLifeBanner": "Descubre los secretos de tu alma.",
+      "anxietyManagement": "Manejo de Ansiedad y Estrés",
+      "anxietyDesc": "Libérate de la presión diaria y encuentra tu paz interior con técnicas efectivas.",
+      "anxietyBanner": "Recupera tu calma y serenidad.",
+      "phobiaOvercoming": "Superación de Fobias y Miedos",
+      "phobiaDesc": "Vence tus miedos irracionales (hablar en público, volar, etc.) y vive sin límites.",
+      "phobiaBanner": "Conquista tus miedos, libera tu potencial.",
+      "knowMore": "Saber Más",
+      "seeAllServices": "Ver Todos los Servicios"
+    },
+    "testimonialsPreview": {
+      "title": "Casos de Éxito",
+      "description": "Nuestra metodología única, enfocada en la neurogénesis para reorganizar caminos neuronales, ha transformado vidas.",
+      "client1Name": "Cliente Satisfecho 1",
+      "client1Role": "Transformado/a",
+      "client1Content": "La hipnoterapia me ayudó a entender patrones que no tenían explicación en esta vida. ¡Una experiencia reveladora!",
+      "client2Name": "Cliente Satisfecho 2",
+      "client2Role": "Liberado/a",
+      "client2Content": "Pude superar mi ansiedad y ahora me siento con más confianza y control en mi día a día. ¡Totalmente recomendado!",
+      "client3Name": "Cliente Satisfecho 3",
+      "client3Role": "Empoderado/a",
+      "client3Content": "Dejar de fumar fue más fácil de lo que imaginé gracias a estas sesiones. ¡Mi salud ha mejorado increíblemente!",
+      "moreTestimonials": "Más Testimonios"
+    },
+    "cta": {
+      "title": "¿Sientes que cargas con miedos o patrones inexplicables?",
+      "p1": "A través de la regresión guiada accedemos a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+      "p2": "Sesión de 1h 30min por $150. Separa tu consulta con $75 y el resto el día de la sesión.",
+      "scheduleRegression": "Agendar Sesión de Regresión",
+      "askMoreInfo": "Pregunta para más información"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Nuestros Servicios de",
+      "subtitle": "Hipnoterapia Transformadora",
+      "description": "Descubre un abanico de posibilidades para tu sanación interior, liberación emocional y reprogramación neuronal. Cada servicio está diseñado para ayudarte a alcanzar tus metas y superar miedos."
+    },
+    "servicesList": {
+      "freeConsultation": {
+        "title": "Consultas Gratis de 30 Minutos",
+        "description": "Hablamos de qué se quiere lograr; identificamos actitudes y comportamientos que afecten tu vida personal, para cambiar tu pensamiento, transformar tu cuerpo, mente y emociones.",
+        "category": "Consulta Inicial",
+        "bannerText": "Tu primer paso hacia el cambio."
+      },
+      "customAudios": {
+        "title": "Audios Personalizados Diarios",
+        "description": "En cada sesión te envío un audio personalizado que debes escuchar diariamente como parte del proceso hipnoterapéutico.",
+        "category": "Soporte Continuo",
+        "bannerText": "Refuerza tu transformación día a día."
+      },
+      "pastLifeRegression": {
+        "title": "Regresiones a Vidas Pasadas",
+        "description": "Accede a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+        "category": "Sanación Profunda",
+        "bannerText": "Explora los misterios de tu alma."
+      },
+      "individualRegression": {
+        "title": "Hipnoterapia Regresiva Individual",
+        "description": "Una experiencia personalizada para sanar y comprender aspectos profundos de tu ser.",
+        "category": "Sanación Profunda",
+        "bannerText": "Viaje individual a tu interior."
+      },
+      "anxietyStressManagement": {
+        "title": "Manejo de la Ansiedad y el Estrés",
+        "description": "Libérate de la presión diaria y encuentra tu paz interior con técnicas efectivas.",
+        "category": "Bienestar Emocional",
+        "bannerText": "Recupera tu calma y equilibrio."
+      },
+      "phobiaFearOvercoming": {
+        "title": "Superación de Fobias y Miedos",
+        "description": "Vence tus miedos irracionales (hablar en público, volar, etc.) y vive sin límites.",
+        "category": "Liberación Personal",
+        "bannerText": "Conquista tus miedos, vive libre."
+      },
+      "quitSmoking": {
+        "title": "Dejar de Fumar",
+        "description": "Rompe con el hábito del tabaco y recupera tu salud con el poder de la hipnosis.",
+        "category": "Salud y Hábitos",
+        "bannerText": "Elige una vida libre de humo."
+      },
+      "weightControl": {
+        "title": "Control del Peso y Hábitos Alimenticios",
+        "description": "Transforma tu relación con la comida y alcanza tus objetivos de peso de forma saludable.",
+        "category": "Salud y Hábitos",
+        "bannerText": "Nutre tu cuerpo, transforma tu vida."
+      },
+      "sleepImprovement": {
+        "title": "Mejora del Sueño e Insomnio",
+        "description": "Disfruta de un descanso reparador y despierta con energía cada mañana.",
+        "category": "Bienestar General",
+        "bannerText": "Duerme profundamente, vive plenamente."
+      },
+      "selfEsteemBoost": {
+        "title": "Incremento de la Autoestima y Confianza",
+        "description": "Desarrolla una imagen positiva de ti mismo y proyecta seguridad en todas las áreas de tu vida.",
+        "category": "Desarrollo Personal",
+        "bannerText": "Cree en ti, alcanza tus sueños."
+      },
+      "emotionalBlockages": {
+        "title": "Bloqueos Emocionales o Traumas Pasados",
+        "description": "Sana heridas del pasado y libera las emociones que te impiden avanzar.",
+        "category": "Sanación Profunda",
+        "bannerText": "Libera el pasado, abraza tu presente."
+      },
+      "examPreparation": {
+        "title": "Preparación para Exámenes o Entrevistas",
+        "description": "Afronta tus desafíos académicos y profesionales con calma, confianza y enfoque.",
+        "category": "Rendimiento y Éxito",
+        "bannerText": "Prepárate para el éxito con mente clara."
+      },
+      "concentrationFocus": {
+        "title": "Mejoras a la Concentración y el Enfoque",
+        "description": "Potencia tu capacidad de atención y productividad en tus tareas diarias.",
+        "category": "Rendimiento y Éxito",
+        "bannerText": "Enfoca tu mente, maximiza tu potencial."
+      },
+      "groupWorkshops": {
+        "title": "Talleres Grupales",
+        "description": "Participa en experiencias transformadoras en un entorno de apoyo y crecimiento compartido.",
+        "category": "Crecimiento Comunitario",
+        "bannerText": "Crece en comunidad, transforma en grupo."
+      },
+      "onlineSessions": {
+        "title": "Sesiones Online",
+        "description": "Accede a nuestros servicios de hipnoterapia desde la comodidad de tu hogar, sin importar dónde te encuentres.",
+        "category": "Accesibilidad",
+        "bannerText": "Transformación sin fronteras."
+      },
+      "moreInfo": "Más Información"
+    },
+    "pricing": {
+      "title": "Paquetes de Sesiones",
+      "description": "Invierte en tu bienestar con nuestros paquetes especiales. Cada sesión tiene una duración de 1 hora a 1 hora y 30 minutos.",
+      "individualPrice": "Precio por sesión individual: $150.",
+      "paymentNote": "Recuerda: Separa tu consulta con $75 (la mitad del costo de una sesión) y la otra mitad la cancelas el día de la sesión antes de empezar.",
+      "package1Name": "1 Sesión",
+      "package1Price": 150,
+      "package1Save": null,
+      "package1Desc": "Ideal para un primer contacto o un objetivo específico.",
+      "package3Name": "3 Sesiones",
+      "package3Price": 420,
+      "package3Save": 30,
+      "package3Desc": "Un paquete para profundizar en tu proceso de cambio.",
+      "package6Name": "6 Sesiones",
+      "package6Price": 780,
+      "package6Save": 120,
+      "package6Desc": "Para una transformación más completa y sostenida.",
+      "package10Name": "10 Sesiones",
+      "package10Price": 1200,
+      "package10Save": 300,
+      "package10Desc": "El compromiso definitivo con tu evolución personal.",
+      "mostPopular": "MÁS POPULAR",
+      "pricePerSession": "por sesión",
+      "features": [
+        "Sesión(es) de Hipnoterapia",
+        "Audios personalizados",
+        "Soporte continuo"
+      ],
+      "selectPackage": "Seleccionar Paquete",
+      "save": "Ahorra ${{amount}}"
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Resolvemos tus dudas sobre la hipnoterapia y nuestros servicios.",
+      "q1": "¿Cómo funciona la consulta gratis de 30 minutos?",
+      "a1": "Es una conversación inicial para conocernos, entender tus objetivos y cómo la hipnoterapia puede ayudarte. Identificaremos actitudes y comportamientos a transformar. Sin compromiso.",
+      "q2": "¿Qué es la neurogénesis y cómo se relaciona con la hipnoterapia?",
+      "a2": "La neurogénesis es la capacidad del cerebro para crear nuevas neuronas. La hipnoterapia, junto con la neuroplasticidad (reestructuración neuronal), facilita este proceso, permitiendo cambiar hábitos y patrones de pensamiento para mejorar tu calidad de vida.",
+      "q3": "¿Cómo se realiza el pago de las sesiones?",
+      "a3": "Para una sesión individual de $150 (1h - 1h30min), separas tu consulta con $75. Los otros $75 se pagan el mismo día de la sesión, antes de comenzar. Los paquetes tienen sus propios términos de pago.",
+      "q4": "¿Qué pasa si necesito cancelar o reprogramar una cita?",
+      "a4": "Entendemos que pueden surgir imprevistos. Te pedimos que nos avises con al menos 24 horas de anticipación para poder reprogramar tu sesión sin costo adicional. Las cancelaciones con menos tiempo pueden estar sujetas a cargos."
+    },
+    "cta": {
+      "title": "¿Listo para tu Evolución Personal?",
+      "description": "Tu transformación comienza con una decisión. Agenda tu consulta gratis o elige el paquete que resuene contigo.",
+      "scheduleFreeConsultation": "Agendar Consulta Gratis",
+      "askMore": "Preguntar Más"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "Sobre",
+      "companyName": "HypnotherapyChangeYourMind",
+      "description": "Somos un canal de transformación consciente, facilitando el despertar personal y emocional para que vivas en alineación con tu esencia."
+    },
+    "missionVision": {
+      "missionTitle": "Nuestra Misión",
+      "missionText": "Ayudar a las personas a liberar bloqueos emocionales, superar miedos y transformar sus vidas a través de la hipnosis terapéutica, de forma segura, respetuosa y efectiva.",
+      "visionTitle": "Nuestra Visión",
+      "visionText": "Ser un canal de transformación consciente, facilitando el despertar personal y emocional de las personas, para que vivan alineadas con su esencia, libres de cargas del pasado y en paz consigo mismas."
+    },
+    "whoWeAre": {
+      "title": "¿Quiénes Somos?",
+      "p1": "Nosotros como hipnoterapeutas profesionales, tenemos el conocimiento para inducir un estado de conciencia absoluto sobre el individuo. Esto nos permite guiarte para que tú puedas reprogramar tu mente y alcanzar una transformación profunda y duradera.",
+      "p2": "Nuestro enfoque combina la sabiduría ancestral de la hipnosis con los últimos descubrimientos en neurociencia, creando una metodología única para tu evolución personal.",
+      "imageOverlay": "Tu guía hacia la reprogramación mental."
+    },
+    "neurogenesis": {
+      "title": "Neurogénesis y Neuroplasticidad",
+      "p1": "La neurogénesis es la habilidad que tiene nuestro cerebro para crear nuevas neuronas. Este proceso, junto con la habilidad de reestructuración neuronal llamada neuroplasticidad, permite a nuestro cerebro cambiar sistemas de pensamiento ya establecidos.",
+      "p2": "Por tanto, la neurogénesis permite cambiar hábitos e ideas, para mejorar la calidad de vida del individuo. Nuestra metodología se enfoca en reorganizar los caminos neuronales para así poder obtener el resultado deseado.",
+      "imageOverlay": "El poder de crear nuevas neuronas."
+    },
+    "ourTeam": {
+      "title": "Nuestro Equipo de Transformación",
+      "description": "Profesionales dedicados a tu sanación interior y evolución personal, combinando experiencia y un enfoque técnico-espiritual.",
+      "julianName": "Julian Elles",
+      "julianRole": "Hipnoterapeuta y Experto en Programación Neurolingüística",
+      "julianBio": "Julian combina un profundo conocimiento de la hipnoterapia con técnicas de PNL para ayudarte a desbloquear tu potencial y reprogramar tu mente para el éxito.",
+      "julianBanner": "Desbloqueando tu potencial.",
+      "sandraName": "Sandra Sanchez",
+      "sandraRole": "Hipnoterapeuta Certificada y Especialista en Regresiones",
+      "sandraBio": "Sandra se especializa en regresiones a vidas pasadas y sanación emocional profunda, guiándote para resolver cargas del pasado y encontrar paz interior.",
+      "sandraBanner": "Sanando desde el interior.",
+      "claudiaName": "Claudia Sanchez",
+      "claudiaRole": "Hipnoterapeuta Certificada",
+      "claudiaBio": "Con años de experiencia y una profunda comprensión de la mente subconsciente, Claudia te guiará en tu proceso de transformación y sanación.",
+      "claudiaBanner": "Guiando tu despertar interior.",
+      "gabrielName": "Gabriel Sanchez",
+      "gabrielRole": "Hipnoterapeuta y Especialista en Neurogénesis",
+      "gabrielBio": "Gabriel aplica los últimos avances en neurociencia para ayudarte a reestructurar patrones de pensamiento y alcanzar tus metas.",
+      "gabrielBanner": "Innovación para tu mente."
+    },
+    "competitiveDifference": {
+      "title": "Nuestra Diferencia Competitiva",
+      "mainText": "Nuestra metodología relacionada con la neurogénesis es única.",
+      "subText": "Somos los únicos en nuestro enfoque de reorganizar los caminos neuronales para así poder obtener el resultado deseado, combinando hipnosis terapéutica con principios de neurociencia para una transformación profunda y sostenible."
+    },
+    "cta": {
+      "title": "¿Listo para redescubrir tu poder interior?",
+      "description": "Agenda una consulta gratuita de 30 minutos y exploremos juntos cómo podemos ayudarte a transformar tu vida.",
+      "scheduleFreeConsultation": "Agendar Consulta Gratis",
+      "viewServices": "Ver Servicios"
+    }
+  },
+  "testimonialsPage": {
+    "hero": {
+      "title": "Historias de",
+      "subtitle": "Transformación y Sanación",
+      "description": "Descubre cómo nuestra metodología única, enfocada en la neurogénesis y la reprogramación neuronal, ha ayudado a personas como tú a alcanzar sus metas y superar miedos."
+    },
+    "featuredTestimonial": {
+      "name": "Ana R.",
+      "role": "Exploradora de Vidas Pasadas",
+      "content": "La regresión a vidas pasadas fue una experiencia profundamente sanadora. Entendí patrones en mi vida actual que no tenían explicación. Me siento más ligera y con un propósito renovado. ¡Gracias por esta increíble guía!",
+      "service": "Regresiones a Vidas Pasadas",
+      "imageOverlay": "Una nueva perspectiva de vida."
+    },
+    "moreSuccessStories": {
+      "title": "Más Casos de Éxito",
+      "description": "Personas reales, transformaciones reales. Inspírate con sus historias de liberación emocional y sanación interior.",
+      "anaName": "Ana R.",
+      "anaRole": "Exploradora de Vidas Pasadas",
+      "anaContent": "La regresión a vidas pasadas fue una experiencia profundamente sanadora. Entendí patrones en mi vida actual que no tenían explicación. Me siento más ligera y con un propósito renovado. ¡Gracias por esta increíble guía!",
+      "anaService": "Regresiones a Vidas Pasadas",
+      "luisName": "Luis M.",
+      "luisRole": "Libre de Ansiedad",
+      "luisContent": "Durante años, la ansiedad controló mi vida. Las sesiones de hipnoterapia me dieron herramientas prácticas y una nueva perspectiva. Ahora puedo manejar el estrés y disfrutar más de cada día. ¡Un cambio radical!",
+      "luisService": "Manejo de Ansiedad y Estrés",
+      "sofiaName": "Sofía C.",
+      "sofiaRole": "Ex-Fumadora Feliz",
+      "sofiaContent": "Intenté dejar de fumar muchas veces sin éxito. La hipnoterapia fue la clave. Desde la primera sesión sentí un cambio. Ya llevo 6 meses sin fumar y me siento increíble. ¡Mi salud y mi bolsillo lo agradecen!",
+      "sofiaService": "Dejar de Fumar",
+      "javierName": "Javier P.",
+      "javierRole": "Confiado y Centrado",
+      "javierContent": "Tenía un bloqueo terrible para hablar en público. Gracias a la hipnoterapia, no solo superé ese miedo, sino que ahora disfruto presentando mis ideas. Mi autoestima ha crecido enormemente.",
+      "javierService": "Superación de Fobias y Miedos",
+      "elenaName": "Elena G.",
+      "elenaRole": "Durmiendo Plenamente",
+      "elenaContent": "El insomnio era una tortura. Las sesiones me ayudaron a calmar mi mente y a establecer una rutina de sueño saludable. Ahora duermo profundamente y me despierto con energía. ¡Es maravilloso!",
+      "elenaService": "Mejora del Sueño e Insomnio",
+      "carlosName": "Carlos V.",
+      "carlosRole": "Enfocado en el Éxito",
+      "carlosContent": "La preparación para mis exámenes fue mucho menos estresante con la hipnoterapia. Mejoré mi concentración y retención de información. ¡Aprobé con excelentes notas!",
+      "carlosService": "Preparación para Exámenes"
+    },
+    "videoTestimonials": {
+      "title": "Testimonios en Video",
+      "description": "Escucha directamente de nuestros clientes cómo la hipnoterapia ha impactado positivamente sus vidas. (Videos Próximamente)",
+      "lauraName": "Laura F.",
+      "lauraRole": "Transformada por la Neurogénesis",
+      "lauraService": "Hipnoterapia y Neurogénesis",
+      "lauraBanner": "Mi cerebro se siente renovado.",
+      "pedroName": "Pedro S.",
+      "pedroRole": "Liberación Emocional Profunda",
+      "pedroService": "Bloqueos Emocionales",
+      "pedroBanner": "Solté cargas que no sabía que tenía.",
+      "comingSoon": "Estamos trabajando en recopilar testimonios en video. ¡Vuelve pronto!"
+    },
+    "submitStory": {
+      "title": "Comparte Tu Historia de Transformación",
+      "description": "Tu experiencia puede ser la inspiración que alguien más necesita para iniciar su propio camino de sanación y evolución personal. ¡Nos encantaría escuchar tu caso de éxito!",
+      "submitMyTestimonial": "Enviar Mi Testimonio"
+    },
+    "cta": {
+      "title": "¿Listo para Escribir Tu Propia Historia de Éxito?",
+      "description": "Únete a las personas que han transformado sus vidas. Permítenos ser tu canal hacia la liberación emocional y el despertar de tu poder interior.",
+      "scheduleFreeConsultation": "Agendar Consulta Gratis",
+      "knowServices": "Conocer Servicios"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contacta con",
+      "companyName": "HypnotherapyChangeYourMind",
+      "description": "Estamos aquí para responder tus preguntas, agendar tu consulta gratis de 30 minutos, o ayudarte a reservar tu sesión de hipnoterapia. ¡Da el primer paso hacia tu transformación!"
+    },
+    "sendMessage": {
+      "title": "Envíanos un Mensaje",
+      "description": "Completa el formulario para consultas generales, solicitar tu consulta gratis de 30 minutos, o para agendar una sesión. Te responderemos a la brevedad."
+    },
+    "contactInfo": {
+      "title": "Información de Contacto",
+      "locationTitle": "Ubicación",
+      "locationLine1": "Sesiones Online Globales",
+      "locationLine2": "Consultorio Principal: Ciudad Ejemplo (con cita previa)",
+      "phoneTitle": "Teléfono (WhatsApp Preferido)",
+      "phoneLine1": "Julian Elles: 720-979-8004",
+      "phoneLine2": "Sandra Sanchez: 720-984-6855",
+      "emailTitle": "Correo Electrónico",
+      "emailLine1": "info@hypnotherapychangeyourmind.com",
+      "hoursTitle": "Horario de Atención (Consultas y Sesiones)",
+      "hoursLine1": "Lunes a Viernes: 9:00 AM - 7:00 PM",
+      "hoursLine2": "Sábados: 10:00 AM - 2:00 PM (Sujeto a disponibilidad)"
+    },
+    "followUs": {
+      "title": "Síguenos para Inspiración Diaria",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "howToSchedule": {
+      "title": "¿Cómo Agendar tu Sesión?",
+      "description": "Agendar tu transformación es fácil. Ofrecemos consultas gratis de 30 minutos y sesiones completas de 1h a 1h30min.",
+      "freeConsultTitle": "Consulta Gratis (30 min)",
+      "freeConsultDesc": "Ideal para aclarar dudas, discutir tus objetivos y entender cómo la hipnoterapia y la neurogénesis pueden ayudarte. Sin compromiso.",
+      "requestFreeConsult": "Solicitar Consulta Gratis",
+      "realSessionTitle": "Sesión Real (1h - 1h30min)",
+      "realSessionDesc1": "Sesión completa de hipnoterapia transformadora. Costo: $150.",
+      "realSessionDesc2": "Importante: Separa tu puesto con $75. Los otros $75 se pagan el mismo día de la sesión, antes de empezar.",
+      "scheduleRealSession": "Agendar Sesión Real"
+    },
+    "askMoreInfoCTA": {
+      "title": "Pregunta para más información",
+      "description": "Si tienes cualquier duda sobre nuestros servicios, la hipnoterapia, la neurogénesis o cómo podemos ayudarte a alcanzar tus metas y superar miedos, ¡no dudes en contactarnos!",
+      "sendMessageButton": "Enviar Mensaje"
+    },
+    "form": {
+      "fullName": "Nombre completo",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@email.com",
+      "phoneOptional": "Teléfono (Opcional)",
+      "phonePlaceholder": "Tu número de teléfono",
+      "message": "Mensaje",
+      "messagePlaceholder": "¿En qué podemos ayudarte?",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "successTitle": "Mensaje enviado con éxito",
+      "successDescription": "Nos pondremos en contacto contigo pronto. ¡Gracias!",
+      "errorTitle": "Error al enviar mensaje",
+      "errorDescription": "Hubo un problema al enviar tu mensaje. Por favor, inténtalo de nuevo.",
+      "thankYouTitle": "¡Gracias por contactarnos!",
+      "thankYouDescription": "Hemos recibido tu mensaje y nos pondremos en contacto contigo lo antes posible."
+    }
+  }
+}

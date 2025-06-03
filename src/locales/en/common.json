@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "scheduleSession": "Schedule Session",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "footer": {
+    "companyName": "HypnotherapyChangeYourMind.com",
+    "contactInfo": "Contact Information",
+    "therapists": "Hypnotherapists",
+    "julian": "Julian Elles",
+    "sandra": "Sandra Sanchez",
+    "phoneJulian": "Phone Julian: 720-979-8004",
+    "phoneSandra": "Phone Sandra: 720-984-6855",
+    "quickContactApp": "Quick Contact App",
+    "contactAppDescription": "Connect directly with our hypnotherapists through our dedicated web application.",
+    "launchApp": "Launch App",
+    "copyright": "© {{year}} HypnotherapyChangeYourMind.com. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "faq": "FAQ"
+  },
+  "form": {
+    "fullName": "Full Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "phoneOptional": "Phone (Optional)",
+    "phonePlaceholder": "Your phone number",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "submit": "Send Message",
+    "submitting": "Sending...",
+    "successTitle": "Message sent successfully",
+    "successDescription": "We will contact you soon. Thank you!",
+    "errorTitle": "Error sending message",
+    "errorDescription": "There was a problem sending your message. Please try again.",
+    "thankYouTitle": "Thank you for contacting us!",
+    "thankYouDescription": "We have received your message and will get back to you as soon as possible."
+  }
+}

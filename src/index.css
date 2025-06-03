@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Point+Sample&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 98%; /* Lighter background for better contrast */
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 262 83% 58%; /* Vibrant Purple */
+    --primary-foreground: 210 40% 98%;
+    --secondary: 220 15% 94%; /* Lighter secondary */
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 220 15% 94%;
+    --muted-foreground: 215.4 16.3% 50%; /* Slightly darker muted foreground */
+    --accent: 262 83% 88%; /* Lighter accent for contrast */
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 72% 51%; /* Brighter destructive */
+    --destructive-foreground: 210 40% 98%;
+    --border: 220 15% 88%; /* Lighter border */
+    --input: 220 15% 88%;
+    --ring: 262 83% 62%; /* Slightly adjusted ring */
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 262 83% 58%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 262 83% 28%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 262 83% 58%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground text-base md:text-lg; /* Increased base font size */
+    font-feature-settings: "rlig" 1, "calt" 1;
+    font-family: 'Inter', sans-serif; /* Modern sans-serif font */
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold;
+  }
+  h1 { @apply text-4xl md:text-5xl lg:text-6xl; }
+  h2 { @apply text-3xl md:text-4xl; } /* Base H2 size */
+  h3 { @apply text-2xl md:text-3xl; }
+  p { @apply leading-relaxed; }
+
+  .font-point-sample {
+    font-family: 'Point Sample', serif;
+  }
+}
+
+.hero-gradient {
+  background: linear-gradient(135deg, hsla(270, 80%, 95%, 0.9) 0%, hsla(245, 70%, 92%, 0.9) 100%); /* Lighter, softer gradient with slight transparency */
+}
+
+.card-gradient {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.8) 100%);
+  backdrop-filter: blur(10px);
+}
+
+.testimonial-card, .service-card {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.testimonial-card:hover, .service-card:hover {
+  transform: translateY(-8px) scale(1.02); /* Slightly more dynamic hover */
+  box-shadow: 0 28px 35px -12px rgba(0, 0, 0, 0.15), 0 15px 20px -10px rgba(0, 0, 0, 0.08); /* Enhanced shadow */
+}
+
+.floating {
+  animation: floating 3.8s ease-in-out infinite; /* Slightly adjusted timing */
+}
+
+@keyframes floating {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-14px); /* Increased movement */
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.pulse {
+  animation: pulse 2.2s cubic-bezier(0.4, 0, 0.6, 1) infinite; /* Slightly faster pulse */
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.03); /* Added subtle scale to pulse */
+  }
+}
+
+/* Fade-in animation for sections */
+.fade-in-section {
+  opacity: 0;
+  transform: translateY(25px); /* Slightly increased initial Y offset */
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out; /* Slightly longer transition */
+}
+
+.fade-in-section.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Image overlay text */
+.image-overlay-text {
+  @apply text-white text-4xl font-[Georgia,Times_New_Roman,serif] italic opacity-0 group-hover:opacity-85 transition-opacity duration-500 ease-in-out px-6 text-center;
+  text-shadow: 1px 1px 6px rgba(0,0,0,0.7); /* Stronger shadow */
+}
+
+/* Dynamic image effect */
+.dynamic-image {
+  @apply transition-all duration-500 ease-in-out;
+}
+.dynamic-image:hover {
+  @apply brightness-110 saturate-150; /* Example dynamic effect - changed saturate-125 to saturate-150 */
+}

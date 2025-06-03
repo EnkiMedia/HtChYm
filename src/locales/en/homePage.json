@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "HypnotherapyChangeYourMind",
+    "subtitle1": "transform your mind, heal your soul",
+    "subtitle2": "rediscover your inner power",
+    "description": "We help people release emotional blockages, overcome fears, and transform their lives through therapeutic hypnosis, safely, respectfully, and effectively.",
+    "ourServices": "Our Services",
+    "scheduleNow": "Schedule NOW..."
+  },
+  "whatIsHypnotherapy": {
+    "title": "What is Hypnotherapy?",
+    "p1": "Hypnotherapy is the science that studies the subconscious mind, the origins, and behavioral patterns that affect our daily lives. In hypnotherapy, we don't work with problems or illnesses; we work with the thoughts, attitudes, and behaviors that create problems and illnesses.",
+    "p2": "Hypnotherapy goes hand in hand with Neurogenesis, allowing us to reconstruct thought patterns to break habits, acquire new skills and ideas, and improve your quality of life.",
+    "moreAboutNeurogenesis": "More about Neurogenesis"
+  },
+  "servicesPreview": {
+    "title": "Featured Services",
+    "description": "Explore some of our services designed for your inner healing and transformation.",
+    "pastLifeRegressions": "Past Life Regressions",
+    "pastLifeDesc": "Access memories from past lives to find clarity, healing, and purpose.",
+    "pastLifeBanner": "Discover the secrets of your soul.",
+    "anxietyManagement": "Anxiety and Stress Management",
+    "anxietyDesc": "Free yourself from daily pressure and find your inner peace with effective techniques.",
+    "anxietyBanner": "Regain your calm and serenity.",
+    "phobiaOvercoming": "Overcoming Phobias and Fears",
+    "phobiaDesc": "Conquer your irrational fears (public speaking, flying, etc.) and live without limits.",
+    "phobiaBanner": "Conquer your fears, unleash your potential.",
+    "knowMore": "Know More",
+    "seeAllServices": "See All Services"
+  },
+  "testimonialsPreview": {
+    "title": "Success Stories",
+    "description": "Our unique methodology, focused on neurogenesis to reorganize neural pathways, has transformed lives.",
+    "client1Name": "Satisfied Client 1",
+    "client1Role": "Transformed",
+    "client1Content": "Hypnotherapy helped me understand patterns that had no explanation in this life. A revealing experience!",
+    "client2Name": "Satisfied Client 2",
+    "client2Role": "Liberated",
+    "client2Content": "I was able to overcome my anxiety and now I feel more confident and in control in my daily life. Totally recommended!",
+    "client3Name": "Satisfied Client 3",
+    "client3Role": "Empowered",
+    "client3Content": "Quitting smoking was easier than I imagined thanks to these sessions. My health has improved incredibly!",
+    "moreTestimonials": "More Testimonials"
+  },
+  "cta": {
+    "title": "Do you feel like you're carrying unexplained fears or patterns?",
+    "p1": "Through guided regression, we access memories from previous lives to find clarity, healing, and purpose.",
+    "p2": "1.5-hour session for $150. Book your consultation with $75, and the rest on the day of the session.",
+    "scheduleRegression": "Schedule Regression Session",
+    "askMoreInfo": "Ask for More Information"
+  }
+}

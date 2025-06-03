@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "title": "Contacta con",
+    "companyName": "HypnotherapyChangeYourMind",
+    "description": "Estamos aquí para responder tus preguntas, agendar tu consulta gratis de 30 minutos, o ayudarte a reservar tu sesión de hipnoterapia. ¡Da el primer paso hacia tu transformación!"
+  },
+  "sendMessage": {
+    "title": "Envíanos un Mensaje",
+    "description": "Completa el formulario para consultas generales, solicitar tu consulta gratis de 30 minutos, o para agendar una sesión. Te responderemos a la brevedad."
+  },
+  "contactInfo": {
+    "title": "Información de Contacto",
+    "phoneTitle": "Teléfono (WhatsApp Preferido)",
+    "phoneLine1": "Julian Elles: 720-979-8004",
+    "phoneLine2": "Sandra Sanchez: 720-984-6855",
+    "emailTitle": "Correo Electrónico",
+    "emailLine1": "info@hypnotherapychangeyourmind.com",
+    "hoursTitle": "Horario de Atención (Consultas y Sesiones)",
+    "hoursLine1": "Lunes a Viernes: 9:00 AM - 7:00 PM",
+    "hoursLine2": "Sábados: 10:00 AM - 2:00 PM (Sujeto a disponibilidad)"
+  },
+  "followUs": {
+    "title": "Síguenos para Inspiración Diaria",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "twitter": "Twitter"
+  },
+  "howToSchedule": {
+    "title": "¿Cómo Agendar tu Sesión?",
+    "description": "Agendar tu transformación es fácil. Ofrecemos consultas gratis de 30 minutos y sesiones completas de 1h a 1h30min.",
+    "freeConsultTitle": "Consulta Gratis (30 min)",
+    "freeConsultDesc": "Ideal para aclarar dudas, discutir tus objetivos y entender cómo la hipnoterapia y la neurogénesis pueden ayudarte. Sin compromiso.",
+    "requestFreeConsult": "Solicitar Consulta Gratis",
+    "realSessionTitle": "Sesión Real (1h - 1h30min)",
+    "realSessionDesc1": "Sesión completa de hipnoterapia transformadora. Costo: $150.",
+    "realSessionDesc2": "Importante: Separa tu puesto con $75. Los otros $75 se pagan el mismo día de la sesión, antes de empezar.",
+    "scheduleRealSession": "Agendar Sesión Real"
+  },
+  "askMoreInfoCTA": {
+    "title": "Pregunta para más información",
+    "description": "Si tienes cualquier duda sobre nuestros servicios, la hipnoterapia, la neurogénesis o cómo podemos ayudarte a alcanzar tus metas y superar miedos, ¡no dudes en contactarnos!",
+    "sendMessageButton": "Enviar Mensaje"
+  }
+}

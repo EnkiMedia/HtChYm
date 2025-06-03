@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "title": "HypnotherapyChangeYourMind",
+    "subtitle1": "transforma tu mente, sana tu alma",
+    "subtitle2": "redescubre tu poder interior",
+    "description": "Ayudamos a las personas a liberar bloqueos emocionales, superar miedos y transformar sus vidas a través de la hipnosis terapéutica, de forma segura, respetuosa y efectiva.",
+    "ourServices": "Nuestros Servicios",
+    "scheduleNow": "Agenda YA..."
+  },
+  "whatIsHypnotherapy": {
+    "title": "¿Qué es la Hipnoterapia?",
+    "p1": "La hipnoterapia es la ciencia que estudia la mente subconsciente, los orígenes y patrones de comportamiento que afectan nuestro día a día. En la hipnoterapia no se trabaja con problemas o enfermedades, se trabaja con los pensamientos, actitudes y comportamientos que crean los problemas y enfermedades.",
+    "p2": "La hipnoterapia va mano a mano con la Neurogénesis, esto nos permite reconstruir patrones de pensamiento para poder dejar un hábito, obtener habilidades e ideas nuevas y mejorar la calidad de tu vida.",
+    "moreAboutNeurogenesis": "Más sobre Neurogénesis"
+  },
+  "servicesPreview": {
+    "title": "Servicios Destacados",
+    "description": "Explora algunos de nuestros servicios diseñados para tu transformación y sanación interior.",
+    "pastLifeRegressions": "Regresiones a Vidas Pasadas",
+    "pastLifeDesc": "Accede a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+    "pastLifeBanner": "Descubre los secretos de tu alma.",
+    "anxietyManagement": "Manejo de Ansiedad y Estrés",
+    "anxietyDesc": "Libérate de la presión diaria y encuentra tu paz interior con técnicas efectivas.",
+    "anxietyBanner": "Recupera tu calma y serenidad.",
+    "phobiaOvercoming": "Superación de Fobias y Miedos",
+    "phobiaDesc": "Vence tus miedos irracionales (hablar en público, volar, etc.) y vive sin límites.",
+    "phobiaBanner": "Conquista tus miedos, libera tu potencial.",
+    "knowMore": "Saber Más",
+    "seeAllServices": "Ver Todos los Servicios"
+  },
+  "testimonialsPreview": {
+    "title": "Casos de Éxito",
+    "description": "Nuestra metodología única, enfocada en la neurogénesis para reorganizar caminos neuronales, ha transformado vidas.",
+    "client1Name": "Cliente Satisfecho 1",
+    "client1Role": "Transformado/a",
+    "client1Content": "La hipnoterapia me ayudó a entender patrones que no tenían explicación en esta vida. ¡Una experiencia reveladora!",
+    "client2Name": "Cliente Satisfecho 2",
+    "client2Role": "Liberado/a",
+    "client2Content": "Pude superar mi ansiedad y ahora me siento con más confianza y control en mi día a día. ¡Totalmente recomendado!",
+    "client3Name": "Cliente Satisfecho 3",
+    "client3Role": "Empoderado/a",
+    "client3Content": "Dejar de fumar fue más fácil de lo que imaginé gracias a estas sesiones. ¡Mi salud ha mejorado increíblemente!",
+    "moreTestimonials": "Más Testimonios"
+  },
+  "cta": {
+    "title": "¿Sientes que cargas con miedos o patrones inexplicables?",
+    "p1": "A través de la regresión guiada accedemos a memorias de vidas anteriores para encontrar claridad, sanación y propósito.",
+    "p2": "Sesión de 1h 30min por $150. Separa tu consulta con $75 y el resto el día de la sesión.",
+    "scheduleRegression": "Agendar Sesión de Regresión",
+    "askMoreInfo": "Pregunta para más información"
+  }
+}

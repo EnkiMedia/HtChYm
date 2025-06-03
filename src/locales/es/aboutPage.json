@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Sobre",
+    "companyName": "HypnotherapyChangeYourMind",
+    "description": "Somos un canal de transformación consciente, facilitando el despertar personal y emocional para que vivas en alineación con tu esencia."
+  },
+  "missionVision": {
+    "missionTitle": "Nuestra Misión",
+    "missionText": "Ayudar a las personas a liberar bloqueos emocionales, superar miedos y transformar sus vidas a través de la hipnosis terapéutica, de forma segura, respetuosa y efectiva.",
+    "visionTitle": "Nuestra Visión",
+    "visionText": "Ser un canal de transformación consciente, facilitando el despertar personal y emocional de las personas, para que vivan alineadas con su esencia, libres de cargas del pasado y en paz consigo mismas."
+  },
+  "whoWeAre": {
+    "title": "¿Quiénes Somos?",
+    "p1": "Nosotros como hipnoterapeutas profesionales, tenemos el conocimiento para inducir un estado de conciencia absoluto sobre el individuo. Esto nos permite guiarte para que tú puedas reprogramar tu mente y alcanzar una transformación profunda y duradera.",
+    "p2": "Nuestro enfoque combina la sabiduría ancestral de la hipnosis con los últimos descubrimientos en neurociencia, creando una metodología única para tu evolución personal.",
+    "imageOverlay": "Tu guía hacia la reprogramación mental."
+  },
+  "neurogenesis": {
+    "title": "Neurogénesis y Neuroplasticidad",
+    "p1": "La neurogénesis es la habilidad que tiene nuestro cerebro para crear nuevas neuronas. Este proceso, junto con la habilidad de reestructuración neuronal llamada neuroplasticidad, permite a nuestro cerebro cambiar sistemas de pensamiento ya establecidos.",
+    "p2": "Por tanto, la neurogénesis permite cambiar hábitos e ideas, para mejorar la calidad de vida del individuo. Nuestra metodología se enfoca en reorganizar los caminos neuronales para así poder obtener el resultado deseado.",
+    "imageOverlay": "El poder de crear nuevas neuronas."
+  },
+  "ourTeam": {
+    "title": "Nuestro Equipo de Transformación",
+    "description": "Profesionales dedicados a tu sanación interior y evolución personal, combinando experiencia y un enfoque técnico-espiritual.",
+    "julianName": "Julian Elles",
+    "julianRole": "Hipnoterapeuta y Experto en Programación Neurolingüística",
+    "julianBio": "Julian combina un profundo conocimiento de la hipnoterapia con técnicas de PNL para ayudarte a desbloquear tu potencial y reprogramar tu mente para el éxito.",
+    "julianBanner": "Desbloqueando tu potencial.",
+    "sandraName": "Sandra Sanchez",
+    "sandraRole": "Hipnoterapeuta Certificada y Especialista en Regresiones",
+    "sandraBio": "Sandra se especializa en regresiones a vidas pasadas y sanación emocional profunda, guiándote para resolver cargas del pasado y encontrar paz interior.",
+    "sandraBanner": "Sanando desde el interior."
+  },
+  "competitiveDifference": {
+    "title": "Nuestra Diferencia Competitiva",
+    "mainText": "Nuestra metodología relacionada con la neurogénesis es única.",
+    "subText": "Somos los únicos en nuestro enfoque de reorganizar los caminos neuronales para así poder obtener el resultado deseado, combinando hipnosis terapéutica con principios de neurociencia para una transformación profunda y sostenible."
+  },
+  "cta": {
+    "title": "¿Listo para redescubrir tu poder interior?",
+    "description": "Agenda una consulta gratuita de 30 minutos y exploremos juntos cómo podemos ayudarte a transformar tu vida.",
+    "scheduleFreeConsultation": "Agendar Consulta Gratis",
+    "viewServices": "Ver Servicios"
+  }
+}

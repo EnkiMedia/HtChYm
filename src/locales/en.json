@@ -1,0 +1,418 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "scheduleSession": "Schedule Session",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language"
+  },
+  "footer": {
+    "companyName": "HypnotherapyChangeYourMind.com",
+    "contactInfo": "Contact Information",
+    "therapists": "Hypnotherapists",
+    "julian": "Julian Elles",
+    "sandra": "Sandra Sanchez",
+    "phoneJulian": "Phone Julian: 720-979-8004",
+    "phoneSandra": "Phone Sandra: 720-984-6855",
+    "quickContactApp": "Quick Contact App",
+    "contactAppDescription": "Connect directly with our hypnotherapists through our dedicated web application.",
+    "launchApp": "Launch App",
+    "copyright": "© {{year}} HypnotherapyChangeYourMind.com. All rights reserved.",
+    "quickLinks": "Quick Links",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "faq": "FAQ"
+  },
+  "homePage": {
+    "hero": {
+      "title": "HypnotherapyChangeYourMind",
+      "subtitle1": "transform your mind, heal your soul",
+      "subtitle2": "rediscover your inner power",
+      "description": "We help people release emotional blockages, overcome fears, and transform their lives through therapeutic hypnosis, safely, respectfully, and effectively.",
+      "ourServices": "Our Services",
+      "scheduleNow": "Schedule NOW..."
+    },
+    "whatIsHypnotherapy": {
+      "title": "What is Hypnotherapy?",
+      "p1": "Hypnotherapy is the science that studies the subconscious mind, the origins, and behavioral patterns that affect our daily lives. In hypnotherapy, we don't work with problems or illnesses; we work with the thoughts, attitudes, and behaviors that create problems and illnesses.",
+      "p2": "Hypnotherapy goes hand in hand with Neurogenesis, allowing us to reconstruct thought patterns to break habits, acquire new skills and ideas, and improve your quality of life.",
+      "moreAboutNeurogenesis": "More about Neurogenesis"
+    },
+    "servicesPreview": {
+      "title": "Featured Services",
+      "description": "Explore some of our services designed for your inner healing and transformation.",
+      "pastLifeRegressions": "Past Life Regressions",
+      "pastLifeDesc": "Access memories from past lives to find clarity, healing, and purpose.",
+      "pastLifeBanner": "Discover the secrets of your soul.",
+      "anxietyManagement": "Anxiety and Stress Management",
+      "anxietyDesc": "Free yourself from daily pressure and find your inner peace with effective techniques.",
+      "anxietyBanner": "Regain your calm and serenity.",
+      "phobiaOvercoming": "Overcoming Phobias and Fears",
+      "phobiaDesc": "Conquer your irrational fears (public speaking, flying, etc.) and live without limits.",
+      "phobiaBanner": "Conquer your fears, unleash your potential.",
+      "knowMore": "Know More",
+      "seeAllServices": "See All Services"
+    },
+    "testimonialsPreview": {
+      "title": "Success Stories",
+      "description": "Our unique methodology, focused on neurogenesis to reorganize neural pathways, has transformed lives.",
+      "client1Name": "Satisfied Client 1",
+      "client1Role": "Transformed",
+      "client1Content": "Hypnotherapy helped me understand patterns that had no explanation in this life. A revealing experience!",
+      "client2Name": "Satisfied Client 2",
+      "client2Role": "Liberated",
+      "client2Content": "I was able to overcome my anxiety and now I feel more confident and in control in my daily life. Totally recommended!",
+      "client3Name": "Satisfied Client 3",
+      "client3Role": "Empowered",
+      "client3Content": "Quitting smoking was easier than I imagined thanks to these sessions. My health has improved incredibly!",
+      "moreTestimonials": "More Testimonials"
+    },
+    "cta": {
+      "title": "Do you feel like you're carrying unexplained fears or patterns?",
+      "p1": "Through guided regression, we access memories from previous lives to find clarity, healing, and purpose.",
+      "p2": "1.5-hour session for $150. Book your consultation with $75, and the rest on the day of the session.",
+      "scheduleRegression": "Schedule Regression Session",
+      "askMoreInfo": "Ask for More Information"
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Our Transformative Hypnotherapy",
+      "subtitle": "Services",
+      "description": "Discover a range of possibilities for your inner healing, emotional release, and neural reprogramming. Each service is designed to help you achieve your goals and overcome fears."
+    },
+    "servicesList": {
+      "freeConsultation": {
+        "title": "Free 30-Minute Consultations",
+        "description": "We discuss what you want to achieve; identify attitudes and behaviors affecting your personal life, to change your thinking, transform your body, mind, and emotions.",
+        "category": "Initial Consultation",
+        "bannerText": "Your first step towards change."
+      },
+      "customAudios": {
+        "title": "Daily Personalized Audios",
+        "description": "In each session, I send you a personalized audio that you should listen to daily as part of the hypnotherapeutic process.",
+        "category": "Continuous Support",
+        "bannerText": "Reinforce your transformation day by day."
+      },
+      "pastLifeRegression": {
+        "title": "Past Life Regressions",
+        "description": "Access memories from past lives to find clarity, healing, and purpose.",
+        "category": "Deep Healing",
+        "bannerText": "Explore the mysteries of your soul."
+      },
+      "individualRegression": {
+        "title": "Individual Regressive Hypnotherapy",
+        "description": "A personalized experience to heal and understand deep aspects of your being.",
+        "category": "Deep Healing",
+        "bannerText": "Individual journey into your inner self."
+      },
+      "anxietyStressManagement": {
+        "title": "Anxiety and Stress Management",
+        "description": "Free yourself from daily pressure and find your inner peace with effective techniques.",
+        "category": "Emotional Wellness",
+        "bannerText": "Regain your calm and balance."
+      },
+      "phobiaFearOvercoming": {
+        "title": "Overcoming Phobias and Fears",
+        "description": "Conquer your irrational fears (public speaking, flying, etc.) and live without limits.",
+        "category": "Personal Liberation",
+        "bannerText": "Conquer your fears, live free."
+      },
+      "quitSmoking": {
+        "title": "Quit Smoking",
+        "description": "Break the smoking habit and regain your health with the power of hypnosis.",
+        "category": "Health & Habits",
+        "bannerText": "Choose a smoke-free life."
+      },
+      "weightControl": {
+        "title": "Weight Control and Eating Habits",
+        "description": "Transform your relationship with food and achieve your weight goals healthily.",
+        "category": "Health & Habits",
+        "bannerText": "Nourish your body, transform your life."
+      },
+      "sleepImprovement": {
+        "title": "Sleep Improvement and Insomnia",
+        "description": "Enjoy restful sleep and wake up energized every morning.",
+        "category": "General Wellness",
+        "bannerText": "Sleep deeply, live fully."
+      },
+      "selfEsteemBoost": {
+        "title": "Increased Self-Esteem and Confidence",
+        "description": "Develop a positive self-image and project confidence in all areas of your life.",
+        "category": "Personal Development",
+        "bannerText": "Believe in yourself, achieve your dreams."
+      },
+      "emotionalBlockages": {
+        "title": "Emotional Blockages or Past Traumas",
+        "description": "Heal past wounds and release emotions holding you back.",
+        "category": "Deep Healing",
+        "bannerText": "Release the past, embrace your present."
+      },
+      "examPreparation": {
+        "title": "Exam or Interview Preparation",
+        "description": "Face your academic and professional challenges with calm, confidence, and focus.",
+        "category": "Performance & Success",
+        "bannerText": "Prepare for success with a clear mind."
+      },
+      "concentrationFocus": {
+        "title": "Improved Concentration and Focus",
+        "description": "Boost your attention span and productivity in your daily tasks.",
+        "category": "Performance & Success",
+        "bannerText": "Focus your mind, maximize your potential."
+      },
+      "groupWorkshops": {
+        "title": "Group Workshops",
+        "description": "Participate in transformative experiences in a supportive and shared growth environment.",
+        "category": "Community Growth",
+        "bannerText": "Grow in community, transform in group."
+      },
+      "onlineSessions": {
+        "title": "Online Sessions",
+        "description": "Access our hypnotherapy services from the comfort of your home, no matter where you are.",
+        "category": "Accessibility",
+        "bannerText": "Transformation without borders."
+      },
+      "moreInfo": "More Information"
+    },
+    "pricing": {
+      "title": "Session Packages",
+      "description": "Invest in your well-being with our special packages. Each session lasts 1 to 1.5 hours.",
+      "individualPrice": "Price per individual session: $150.",
+      "paymentNote": "Remember: Book your consultation with $75 (half the cost of a session) and pay the other half on the day of the session before starting.",
+      "package1Name": "1 Session",
+      "package1Price": 150,
+      "package1Save": null,
+      "package1Desc": "Ideal for a first contact or a specific goal.",
+      "package3Name": "3 Sessions",
+      "package3Price": 420,
+      "package3Save": 30,
+      "package3Desc": "A package to deepen your change process.",
+      "package6Name": "6 Sessions",
+      "package6Price": 780,
+      "package6Save": 120,
+      "package6Desc": "For a more complete and sustained transformation.",
+      "package10Name": "10 Sessions",
+      "package10Price": 1200,
+      "package10Save": 300,
+      "package10Desc": "The ultimate commitment to your personal evolution.",
+      "mostPopular": "MOST POPULAR",
+      "pricePerSession": "per session",
+      "features": [
+        "Hypnotherapy Session(s)",
+        "Personalized audios",
+        "Continuous support"
+      ],
+      "selectPackage": "Select Package",
+      "save": "Save ${{amount}}"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "We answer your questions about hypnotherapy and our services.",
+      "q1": "How does the free 30-minute consultation work?",
+      "a1": "It's an initial conversation to get to know each other, understand your goals, and how hypnotherapy can help you. We will identify attitudes and behaviors to transform. No commitment.",
+      "q2": "What is neurogenesis and how is it related to hypnotherapy?",
+      "a2": "Neurogenesis is the brain's ability to create new neurons. Hypnotherapy, along with neuroplasticity (neural restructuring), facilitates this process, allowing for changes in habits and thought patterns to improve your quality of life.",
+      "q3": "How is payment for sessions made?",
+      "a3": "For an individual session of $150 (1h - 1h30min), you book your consultation with $75. The other $75 is paid on the day of the session, before starting. Packages have their own payment terms.",
+      "q4": "What if I need to cancel or reschedule an appointment?",
+      "a4": "We understand that unforeseen events can occur. We ask you to notify us at least 24 hours in advance to reschedule your session at no additional cost. Cancellations with less notice may be subject to charges."
+    },
+    "cta": {
+      "title": "Ready for Your Personal Evolution?",
+      "description": "Your transformation begins with a decision. Schedule your free consultation or choose the package that resonates with you.",
+      "scheduleFreeConsultation": "Schedule Free Consultation",
+      "askMore": "Ask More"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "title": "About",
+      "companyName": "HypnotherapyChangeYourMind",
+      "description": "We are a channel of conscious transformation, facilitating personal and emotional awakening so you can live in alignment with your essence."
+    },
+    "missionVision": {
+      "missionTitle": "Our Mission",
+      "missionText": "To help people release emotional blockages, overcome fears, and transform their lives through therapeutic hypnosis, safely, respectfully, and effectively.",
+      "visionTitle": "Our Vision",
+      "visionText": "To be a channel of conscious transformation, facilitating the personal and emotional awakening of people, so they live aligned with their essence, free from past burdens, and at peace with themselves."
+    },
+    "whoWeAre": {
+      "title": "Who We Are?",
+      "p1": "As professional hypnotherapists, we have the knowledge to induce an absolute state of consciousness in the individual. This allows us to guide you so you can reprogram your mind and achieve profound and lasting transformation.",
+      "p2": "Our approach combines the ancestral wisdom of hypnosis with the latest discoveries in neuroscience, creating a unique methodology for your personal evolution.",
+      "imageOverlay": "Your guide to mental reprogramming."
+    },
+    "neurogenesis": {
+      "title": "Neurogenesis and Neuroplasticity",
+      "p1": "Neurogenesis is our brain's ability to create new neurons. This process, along with the neural restructuring ability called neuroplasticity, allows our brain to change established thought systems.",
+      "p2": "Therefore, neurogenesis allows for changing habits and ideas to improve an individual's quality of life. Our methodology focuses on reorganizing neural pathways to achieve the desired outcome.",
+      "imageOverlay": "The power to create new neurons."
+    },
+    "ourTeam": {
+      "title": "Our Transformation Team",
+      "description": "Professionals dedicated to your inner healing and personal evolution, combining experience and a technical-spiritual approach.",
+      "julianName": "Julian Elles",
+      "julianRole": "Hypnotherapist & Neuro-Linguistic Programming Expert",
+      "julianBio": "Julian combines deep hypnotherapy knowledge with NLP techniques to help you unlock your potential and reprogram your mind for success.",
+      "julianBanner": "Unlocking your potential.",
+      "sandraName": "Sandra Sanchez",
+      "sandraRole": "Certified Hypnotherapist & Regression Specialist",
+      "sandraBio": "Sandra specializes in past life regression and deep emotional healing, guiding you to resolve past burdens and find inner peace.",
+      "sandraBanner": "Healing from within.",
+      "claudiaName": "Claudia Sanchez",
+      "claudiaRole": "Certified Hypnotherapist",
+      "claudiaBio": "With years of experience and a deep understanding of the subconscious mind, Claudia will guide you in your process of transformation and healing.",
+      "claudiaBanner": "Guiding your inner awakening.",
+      "gabrielName": "Gabriel Sanchez",
+      "gabrielRole": "Hypnotherapist and Neurogenesis Specialist",
+      "gabrielBio": "Gabriel applies the latest advances in neuroscience to help you restructure thought patterns and achieve your goals.",
+      "gabrielBanner": "Innovation for your mind."
+    },
+    "competitiveDifference": {
+      "title": "Our Competitive Difference",
+      "mainText": "Our methodology related to neurogenesis is unique.",
+      "subText": "We are unique in our approach of reorganizing neural pathways to achieve the desired result, combining therapeutic hypnosis with neuroscience principles for profound and sustainable transformation."
+    },
+    "cta": {
+      "title": "Ready to rediscover your inner power?",
+      "description": "Schedule a free 30-minute consultation and let's explore together how we can help you transform your life.",
+      "scheduleFreeConsultation": "Schedule Free Consultation",
+      "viewServices": "View Services"
+    }
+  },
+  "testimonialsPage": {
+    "hero": {
+      "title": "Stories of",
+      "subtitle": "Transformation and Healing",
+      "description": "Discover how our unique methodology, focused on neurogenesis and neural reprogramming, has helped people like you achieve their goals and overcome fears."
+    },
+    "featuredTestimonial": {
+      "name": "Ana R.",
+      "role": "Past Life Explorer",
+      "content": "Past life regression was a profoundly healing experience. I understood patterns in my current life that had no explanation. I feel lighter and with a renewed purpose. Thank you for this incredible guidance!",
+      "service": "Past Life Regressions",
+      "imageOverlay": "A new perspective on life."
+    },
+    "moreSuccessStories": {
+      "title": "More Success Stories",
+      "description": "Real people, real transformations. Get inspired by their stories of emotional release and inner healing.",
+      "anaName": "Ana R.",
+      "anaRole": "Past Life Explorer",
+      "anaContent": "Past life regression was a profoundly healing experience. I understood patterns in my current life that had no explanation. I feel lighter and with a renewed purpose. Thank you for this incredible guidance!",
+      "anaService": "Past Life Regressions",
+      "luisName": "Luis M.",
+      "luisRole": "Anxiety-Free",
+      "luisContent": "For years, anxiety controlled my life. Hypnotherapy sessions gave me practical tools and a new perspective. Now I can manage stress and enjoy each day more. A radical change!",
+      "luisService": "Anxiety and Stress Management",
+      "sofiaName": "Sofía C.",
+      "sofiaRole": "Happy Ex-Smoker",
+      "sofiaContent": "I tried to quit smoking many times without success. Hypnotherapy was the key. From the first session, I felt a change. I've been smoke-free for 6 months and I feel incredible. My health and my wallet thank you!",
+      "sofiaService": "Quit Smoking",
+      "javierName": "Javier P.",
+      "javierRole": "Confident and Centered",
+      "javierContent": "I had a terrible block about public speaking. Thanks to hypnotherapy, I not only overcame that fear, but now I enjoy presenting my ideas. My self-esteem has grown enormously.",
+      "javierService": "Overcoming Phobias and Fears",
+      "elenaName": "Elena G.",
+      "elenaRole": "Sleeping Soundly",
+      "elenaContent": "Insomnia was torture. The sessions helped me calm my mind and establish a healthy sleep routine. Now I sleep deeply and wake up energized. It's wonderful!",
+      "elenaService": "Sleep Improvement and Insomnia",
+      "carlosName": "Carlos V.",
+      "carlosRole": "Focused on Success",
+      "carlosContent": "Preparing for my exams was much less stressful with hypnotherapy. I improved my concentration and information retention. I passed with excellent grades!",
+      "carlosService": "Exam Preparation"
+    },
+    "videoTestimonials": {
+      "title": "Video Testimonials",
+      "description": "Hear directly from our clients how hypnotherapy has positively impacted their lives. (Videos Coming Soon)",
+      "lauraName": "Laura F.",
+      "lauraRole": "Transformed by Neurogenesis",
+      "lauraService": "Hypnotherapy and Neurogenesis",
+      "lauraBanner": "My brain feels renewed.",
+      "pedroName": "Pedro S.",
+      "pedroRole": "Deep Emotional Release",
+      "pedroService": "Emotional Blockages",
+      "pedroBanner": "I released burdens I didn't know I had.",
+      "comingSoon": "We are working on collecting video testimonials. Check back soon!"
+    },
+    "submitStory": {
+      "title": "Share Your Transformation Story",
+      "description": "Your experience can be the inspiration someone else needs to start their own path of healing and personal evolution. We'd love to hear your success story!",
+      "submitMyTestimonial": "Submit My Testimonial"
+    },
+    "cta": {
+      "title": "Ready to Write Your Own Success Story?",
+      "description": "Join the people who have transformed their lives. Let us be your channel towards emotional release and the awakening of your inner power.",
+      "scheduleFreeConsultation": "Schedule Free Consultation",
+      "knowServices": "Know Services"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Contact",
+      "companyName": "HypnotherapyChangeYourMind",
+      "description": "We are here to answer your questions, schedule your free 30-minute consultation, or help you book your hypnotherapy session. Take the first step towards your transformation!"
+    },
+    "sendMessage": {
+      "title": "Send Us a Message",
+      "description": "Complete the form for general inquiries, to request your free 30-minute consultation, or to schedule a session. We will respond shortly."
+    },
+    "contactInfo": {
+      "title": "Contact Information",
+      "locationTitle": "Location",
+      "locationLine1": "Global Online Sessions",
+      "locationLine2": "Main Office: Example City (by appointment only)",
+      "phoneTitle": "Phone (WhatsApp Preferred)",
+      "phoneLine1": "Julian Elles: 720-979-8004",
+      "phoneLine2": "Sandra Sanchez: 720-984-6855",
+      "emailTitle": "Email",
+      "emailLine1": "info@hypnotherapychangeyourmind.com",
+      "hoursTitle": "Office Hours (Consultations and Sessions)",
+      "hoursLine1": "Monday to Friday: 9:00 AM - 7:00 PM",
+      "hoursLine2": "Saturdays: 10:00 AM - 2:00 PM (Subject to availability)"
+    },
+    "followUs": {
+      "title": "Follow Us for Daily Inspiration",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter"
+    },
+    "howToSchedule": {
+      "title": "How to Schedule Your Session?",
+      "description": "Scheduling your transformation is easy. We offer free 30-minute consultations and full sessions of 1h to 1h30min.",
+      "freeConsultTitle": "Free Consultation (30 min)",
+      "freeConsultDesc": "Ideal for clarifying doubts, discussing your goals, and understanding how hypnotherapy and neurogenesis can help you. No commitment.",
+      "requestFreeConsult": "Request Free Consultation",
+      "realSessionTitle": "Real Session (1h - 1h30min)",
+      "realSessionDesc1": "Full transformative hypnotherapy session. Cost: $150.",
+      "realSessionDesc2": "Important: Book your spot with $75. The other $75 is paid on the day of the session, before starting.",
+      "scheduleRealSession": "Schedule Real Session"
+    },
+    "askMoreInfoCTA": {
+      "title": "Ask for More Information",
+      "description": "If you have any questions about our services, hypnotherapy, neurogenesis, or how we can help you achieve your goals and overcome fears, don't hesitate to contact us!",
+      "sendMessageButton": "Send Message"
+    },
+    "form": {
+      "fullName": "Full Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your@email.com",
+      "phoneOptional": "Phone (Optional)",
+      "phonePlaceholder": "Your phone number",
+      "message": "Message",
+      "messagePlaceholder": "How can we help you?",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "successTitle": "Message sent successfully",
+      "successDescription": "We will contact you soon. Thank you!",
+      "errorTitle": "Error sending message",
+      "errorDescription": "There was a problem sending your message. Please try again.",
+      "thankYouTitle": "Thank you for contacting us!",
+      "thankYouDescription": "We have received your message and will get back to you as soon as possible."
+    }
+  }
+}

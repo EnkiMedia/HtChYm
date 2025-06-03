@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "title": "Stories of",
+    "subtitle": "Transformation and Healing",
+    "description": "Discover how our unique methodology, focused on neurogenesis and neural reprogramming, has helped people like you achieve their goals and overcome fears."
+  },
+  "featuredTestimonial": {
+    "name": "Ana R.",
+    "role": "Past Life Explorer",
+    "content": "Past life regression was a profoundly healing experience. I understood patterns in my current life that had no explanation. I feel lighter and with a renewed purpose. Thank you for this incredible guidance!",
+    "service": "Past Life Regressions",
+    "imageOverlay": "A new perspective on life."
+  },
+  "moreSuccessStories": {
+    "title": "More Success Stories",
+    "description": "Real people, real transformations. Get inspired by their stories of emotional release and inner healing.",
+    "anaName": "Ana R.",
+    "anaRole": "Past Life Explorer",
+    "anaContent": "Past life regression was a profoundly healing experience. I understood patterns in my current life that had no explanation. I feel lighter and with a renewed purpose. Thank you for this incredible guidance!",
+    "anaService": "Past Life Regressions",
+    "luisName": "Luis M.",
+    "luisRole": "Anxiety-Free",
+    "luisContent": "For years, anxiety controlled my life. Hypnotherapy sessions gave me practical tools and a new perspective. Now I can manage stress and enjoy each day more. A radical change!",
+    "luisService": "Anxiety and Stress Management",
+    "sofiaName": "Sofía C.",
+    "sofiaRole": "Happy Ex-Smoker",
+    "sofiaContent": "I tried to quit smoking many times without success. Hypnotherapy was the key. From the first session, I felt a change. I've been smoke-free for 6 months and I feel incredible. My health and my wallet thank you!",
+    "sofiaService": "Quit Smoking",
+    "javierName": "Javier P.",
+    "javierRole": "Confident and Centered",
+    "javierContent": "I had a terrible block about public speaking. Thanks to hypnotherapy, I not only overcame that fear, but now I enjoy presenting my ideas. My self-esteem has grown enormously.",
+    "javierService": "Overcoming Phobias and Fears",
+    "elenaName": "Elena G.",
+    "elenaRole": "Sleeping Soundly",
+    "elenaContent": "Insomnia was torture. The sessions helped me calm my mind and establish a healthy sleep routine. Now I sleep deeply and wake up energized. It's wonderful!",
+    "elenaService": "Sleep Improvement and Insomnia",
+    "carlosName": "Carlos V.",
+    "carlosRole": "Focused on Success",
+    "carlosContent": "Preparing for my exams was much less stressful with hypnotherapy. I improved my concentration and information retention. I passed with excellent grades!",
+    "carlosService": "Exam Preparation"
+  },
+  "videoTestimonials": {
+    "title": "Video Testimonials",
+    "description": "Hear directly from our clients how hypnotherapy has positively impacted their lives. (Videos Coming Soon)",
+    "lauraName": "Laura F.",
+    "lauraRole": "Transformed by Neurogenesis",
+    "lauraService": "Hypnotherapy and Neurogenesis",
+    "lauraBanner": "My brain feels renewed.",
+    "pedroName": "Pedro S.",
+    "pedroRole": "Deep Emotional Release",
+    "pedroService": "Emotional Blockages",
+    "pedroBanner": "I released burdens I didn't know I had.",
+    "comingSoon": "We are working on collecting video testimonials. Check back soon!"
+  },
+  "submitStory": {
+    "title": "Share Your Transformation Story",
+    "description": "Your experience can be the inspiration someone else needs to start their own path of healing and personal evolution. We'd love to hear your success story!",
+    "submitMyTestimonial": "Submit My Testimonial"
+  },
+  "cta": {
+    "title": "Ready to Write Your Own Success Story?",
+    "description": "Join the people who have transformed their lives. Let us be your channel towards emotional release and the awakening of your inner power.",
+    "scheduleFreeConsultation": "Schedule Free Consultation",
+    "knowServices": "Know Services"
+  }
+}

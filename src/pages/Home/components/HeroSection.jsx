@@ -13,7 +13,7 @@ const HeroSection = () => {
     `${t('hero.subtitle1')}, ${t('hero.subtitle2')}`
   ];
 
-  const originalHeroImageUrl = "https://images.unsplash.com/photo-1531306728359-97545a080aac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV1cm9uJTIwbmV0d29ya3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=80";
+  const originalHeroImageUrl = "https://scontent.fpbc2-5.fna.fbcdn.net/v/t45.1600-4/502178282_1483987022569019_6803109845691016894_n.jpg?stp=cp0_dst-jpg_p526x296_q75_spS444_tt6&_nc_cat=110&ccb=1-7&_nc_sid=b81fdb&_nc_ohc=6uxvEsIA-AMQ7kNvwEU95XS&_nc_oc=AdmQK5CtFm9dqZJSNIBwJC-cPSoCCtVJVA5hhbju7TtECNfHEKyG8RA-Zt27pIs0Tj1wsaP2mRMGbpZNqo3gZmFP&_nc_zt=1&_nc_ht=scontent.fpbc2-5.fna&_nc_gid=nwYf29BjtlP1UoI6UDsYkw&oh=00_AfPN_f0SVMOPCWytFxLb47CELlRqv-Emg64go15nyo1hPw&oe=6849DB85";
 
   useEffect(() => {
     const intervalId = setInterval(() => {

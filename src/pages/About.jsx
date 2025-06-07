@@ -13,8 +13,8 @@ const fadeIn = {
 };
 
 const teamMemberImages = {
-  julian: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydHJhaXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
-  sandra: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cG9ydHJhaXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
+  julian: "https://woipdmnrefutmcxjzwfe.supabase.co/storage/v1/object/public/hypnotherapychangeyourmind/public/htchym.jpg",
+  sandra: "https://woipdmnrefutmcxjzwfe.supabase.co/storage/v1/object/public/hypnotherapychangeyourmind/public/htchymm.jpeg",
 };
 
 const originalHeroImageUrl = "https://images.unsplash.com/photo-1531306728359-97545a080aac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV1cm9uJTIwbmV0d29ya3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=1200&q=80";
